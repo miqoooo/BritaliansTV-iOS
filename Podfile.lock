@@ -1,0 +1,24 @@
+PODS:
+  - GoogleAds-IMA-iOS-SDK (3.19.2)
+  - Kingfisher (7.10.0)
+  - XMLCoder (0.14.0)
+
+DEPENDENCIES:
+  - GoogleAds-IMA-iOS-SDK (~> 3.19.1)
+  - Kingfisher (~> 7.0)
+  - XMLCoder (~> 0.14.0)
+
+SPEC REPOS:
+  trunk:
+    - GoogleAds-IMA-iOS-SDK
+    - Kingfisher
+    - XMLCoder
+
+SPEC CHECKSUMS:
+  GoogleAds-IMA-iOS-SDK: 0e817c05ab26f1b9285c80f4a75e1350a916d50b
+  Kingfisher: a18f05d3b6d37d8650ee4a3e61d57a28fc6207f6
+  XMLCoder: 0199b725702f32aa3190a88ea2f6fb4847bfe1d1
+
+PODFILE CHECKSUM: a3bf99049534a2c68db30040fabce07eb6f60f6e
+
+COCOAPODS: 1.12.1
